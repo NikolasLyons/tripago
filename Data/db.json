@@ -1,3 +1,20 @@
 {
-  "trips":
+  "trips": [
+    {
+      "title": "2 night stay in Venice",
+      "price": "$200"
+    },
+    {
+      "title": "3 night stay in Paris",
+      "price": "$190"
+    },
+    {
+      "title": "4 night stay in London",
+      "price": "$450"
+    },
+    {
+      "title": "3 night stay in New York",
+      "price": "$349"
+    }
+  ]
 }
